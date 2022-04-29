@@ -159,8 +159,8 @@
             .textoSlider{
                 white-space: nowrap;
                 border-right: 3px solid;
-                width: 15ch;
-                animation:typing 2s steps(17),
+                width: 17ch;
+                animation:typing 2s steps(15),
                     blink .5s infinite step-end alternate;
                 overflow: hidden;
             }
