@@ -131,7 +131,7 @@ body {
 .textoSlider {
   white-space: nowrap;
   border-right: 3px solid;
-  width: 17ch;
+  width: 15ch;
   animation: typing 2s steps(17), blink 0.5s infinite step-end alternate;
   overflow: hidden; }
 
