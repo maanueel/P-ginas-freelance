@@ -1,4 +1,5 @@
 borders.css
 styleMobile.scss
-
+_body.scss
+_vars.scss
 .sass-cache
